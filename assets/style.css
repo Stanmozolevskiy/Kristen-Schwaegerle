@@ -39,6 +39,7 @@
       max-width: 1200px;
       margin: 200px auto;
       margin-top: 50px;
+      margin-bottom: 50px;
       grid-gap: 10px 50px;
       grid-template-columns: 5fr 18fr 5fr;
     }
